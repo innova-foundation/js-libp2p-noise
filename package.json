@@ -45,7 +45,7 @@
     "sinon": "^8.1.0"
   },
   "dependencies": {
-    "bcrypto": "git://github.com/carsenk/bcrypto.git",
+    "bcrypto": "git://github.com/innova-foundation/bcrypto.git",
     "buffer": "^5.4.3",
     "debug": "^4.1.1",
     "it-buffer": "^0.1.1",
